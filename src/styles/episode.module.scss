@@ -15,7 +15,6 @@
             height: 3rem;
             border-radius: 0.75rem;
             border: 0;
-
             position: absolute;
             z-index: 5;
             font-size: 0;
@@ -25,8 +24,8 @@
             &:first-child {
                 left: 0;
                 top: 50%;
-                background: var(--purple-500);
                 transform: translate(-50%, -50%);
+                background: var(--purple-500);
             }
 
             &:last-child {
@@ -37,7 +36,7 @@
             }
 
             &:hover {
-                filter: brightness(0.9);
+                filter: brightness(0.9)
             }
         }
     }
@@ -53,7 +52,7 @@
 
         span {
             display: inline-block;
-            font-size: 0.876rem;
+            font-size: 0.875rem;
 
             &+span {
                 margin-left: 1rem;
@@ -61,11 +60,11 @@
                 position: relative;
 
                 &::before {
-                    content: "";
+                    content: '';
                     width: 4px;
                     height: 4px;
                     border-radius: 2px;
-                    background: #DDD;
+                    background: #ddd;
                     position: absolute;
                     left: 0;
                     top: 50%;
