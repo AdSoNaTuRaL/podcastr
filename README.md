@@ -11,7 +11,8 @@
 <br>
 
 <p align="center">
-  <img alt="Move-it" src="https://user-images.githubusercontent.com/26275918/116205411-07774500-a73e-11eb-8e24-a24bc1495c69.png">
+  <img alt="Podcastr" src="https://user-images.githubusercontent.com/26275918/116205411-07774500-a73e-11eb-8e24-a24bc1495c69.png">
+  <img alt="Podcastr" src="https://user-images.githubusercontent.com/26275918/116205403-06461800-a73e-11eb-9204-c7ca9c030ac5.png">
 </p>
 
 ## 🧪 Technologies
