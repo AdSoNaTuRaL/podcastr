@@ -46,5 +46,3 @@ $ yarn dev
 ## 💻 Project
 
 Podcastr came to help you listen your podcasts.
-
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)**.
